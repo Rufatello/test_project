@@ -14,7 +14,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-пользователь/библиотека-книг.git
+   git clone https://github.com/Rufatello/test_project.git
 
 ### Использование
 1. Запустите основной скрипт:
